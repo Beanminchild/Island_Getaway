@@ -8,7 +8,7 @@ A dynamic island like widget for mac that triggers when you hover in the screen 
 
 
 
-#Features#
+## Features
 
 - Quick web search : search the web quickly using my bang@home search engine that allows you  to quickly navigate to and within
   websites with a single search using duckduckgo !bangs or your own custom made bangs: *https://bangathome.free.nf*
