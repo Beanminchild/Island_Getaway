@@ -1,4 +1,4 @@
-A dynamic island like widget for mac that triggers when you hover in the screen notch area or the top of yuor screen if you dont have a notch
+A dynamic island like widget for mac that triggers when you hover in the screen notch area or the top of your screen if you dont have a notch
 
 
 
@@ -8,10 +8,12 @@ A dynamic island like widget for mac that triggers when you hover in the screen 
 ##Features##
 
 - Quick web search : search the web quickly using my bang@home search engine that allows you s to quickly navigate to and within
-  websites with a single search using duckduckgo !bangs or your own custom made bangs: https://bangathome.free.nf
+  websites with a single search using duckduckgo !bangs or your own custom made bangs: *https://bangathome.free.nf*
 
 - Weather: weather for your location based on IP
 - Quick apps: quickly open an app by hovering over the widget in the island (Terminal only right now as a POC)
+
+- More to come!
 
 This is a POC and is very early in its development, i really am making it for myself because i dont like how the notch doesnt really do anything, and will be experimenting with new features and improvments 
 depending on how much i end up using it... if you see anything you think would make it cooler feel free to suggest it! 
