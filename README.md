@@ -18,7 +18,7 @@ A dynamic island like widget for mac that triggers when you hover in the screen 
 
 - More to come!
 
-This is a POC and is very early in its development, i really am making it for myself because i dont like how the notch doesnt really do anything, and will be experimenting with new features and improvments 
-depending on how much i end up using it... if you see anything you think would make it cooler feel free to suggest it! 
+This is a POC and is very early in its development,  i really am making it for myself because i dont like how the notch doesnt really do anything, and how the perch app cost money... I will be experimenting with new features and improvments 
+depending on how much i end up using it... if you see anything you think would make it cooler feel free to suggest it or just fork and do whatever you want with it!
 
 
