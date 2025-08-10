@@ -5,7 +5,10 @@ A dynamic island like widget for mac that triggers when you hover in the screen 
 <img width="1800" height="1169" alt="Screenshot 2025-08-10 at 10 04 21 AM" src="https://github.com/user-attachments/assets/9f632a72-2a3d-4e65-99ea-e1919f8ea6f9" />
 
 
-##Features##
+
+
+
+#Features#
 
 - Quick web search : search the web quickly using my bang@home search engine that allows you  to quickly navigate to and within
   websites with a single search using duckduckgo !bangs or your own custom made bangs: *https://bangathome.free.nf*
