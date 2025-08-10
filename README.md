@@ -13,7 +13,7 @@ A dynamic island like widget for mac that triggers when you hover in the screen 
 - Weather: weather for your location based on IP
 - Quick apps: quickly open an app by hovering over the widget in the island (Terminal only right now as a POC)
 
-This is a POC and is very early in its development, i really am making it for myself and will be experimenting with new features and improvments 
+This is a POC and is very early in its development, i really am making it for myself because i dont like how the notch doesnt really do anything, and will be experimenting with new features and improvments 
 depending on how much i end up using it... if you see anything you think would make it cooler feel free to suggest it! 
 
 
